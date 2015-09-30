@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮注疏
-#+DATE: 2015-09-23 09:37:42
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:08:26.476297
+#+PROPERTY: ID KR1d0028
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1d0028_WYG_004-1a>¶
 欽定四庫全書¶
 　儀禮注疏卷四¶
@@ -974,6 +976,7 @@
 　¶
 　¶
 　儀禮注疏卷四¶
+#+PROPERTY: JUAN 卷四考證
 <pb:KR1d0028_WYG_004-55a>¶
 　儀禮注疏卷四考證¶
 主人就先生而謀賔介疏爵則於此無所當○當字或¶
@@ -1046,4 +1049,3 @@
 樂正與立者皆薦以齒注以薦明飲也○監本脱薦字¶
 　今依敖氏集説補之¶
 　儀禮注疏卷四考證¶
-

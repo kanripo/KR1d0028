@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮注疏
-#+DATE: 2015-09-23 09:37:42
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:08:26.499276
+#+PROPERTY: ID KR1d0028
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1d0028_WYG_005-1a>¶
 欽定四庫全書¶
 　儀禮注疏卷五¶
@@ -1640,6 +1642,7 @@
 也今文無射音義(厭於/涉反)疏(注釋曰上云大夫與士射袒/纁襦今與君射爲厭與士同)¶
 (故肉/袒也)¶
 　儀禮注疏卷五¶
+#+PROPERTY: JUAN 卷五考證
 <pb:KR1d0028_WYG_005-92a>¶
 　儀禮注疏卷五考證¶
 主人戒賓賓出迎再拜主人答再拜乃請○敖繼公云¶
@@ -1766,4 +1769,3 @@
 　¶
 　¶
 　儀禮注疏卷五考證¶
-

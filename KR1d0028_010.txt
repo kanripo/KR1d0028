@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮注疏
-#+DATE: 2015-09-23 09:37:42
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:08:26.672527
+#+PROPERTY: ID KR1d0028
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1d0028_WYG_010-1a>¶
 欽定四庫全書¶
 　儀禮注疏卷十¶
@@ -650,6 +652,7 @@
 　¶
 　¶
 　儀禮注疏卷十¶
+#+PROPERTY: JUAN 卷十考證
 <pb:KR1d0028_WYG_010-37a>¶
 　儀禮注疏卷十考證¶
 使者不答拜○答字石經竝作荅¶
@@ -704,4 +707,3 @@
 　¶
 　¶
 　儀禮注疏卷十考證¶
-

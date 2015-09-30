@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮注疏
-#+DATE: 2015-09-23 09:37:42
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:08:26.598806
+#+PROPERTY: ID KR1d0028
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1d0028_WYG_008-1a>¶
 欽定四庫全書¶
 　儀禮注疏卷八¶
@@ -2450,6 +2452,7 @@
 　¶
 　¶
 　儀禮注疏卷八¶
+#+PROPERTY: JUAN 卷八考證
 <pb:KR1d0028_WYG_008-137a>¶
 　儀禮注疏卷八考證¶
 宰命司馬戒衆介注諸侯謂司徒為宰○張渟云釋文¶
@@ -2576,4 +2579,3 @@
 　¶
 　¶
 　儀禮注疏卷八考證¶
-

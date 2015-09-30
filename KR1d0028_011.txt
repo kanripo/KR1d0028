@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮注疏
-#+DATE: 2015-09-23 09:37:42
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:08:26.699924
+#+PROPERTY: ID KR1d0028
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1d0028_WYG_011-1a>¶
 欽定四庫全書¶
 　儀禮注疏巻十一¶
@@ -2216,6 +2218,7 @@
 　¶
 　¶
 　儀禮注疏卷十一¶
+#+PROPERTY: JUAN 卷十一考證
 <pb:KR1d0028_WYG_011-124a>¶
 　儀禮注疏卷十一考證¶
 杖各齊其心○敖本無杖字¶
@@ -2378,4 +2381,3 @@
 　¶
 　¶
 　儀禮注疏卷十一考證¶
-

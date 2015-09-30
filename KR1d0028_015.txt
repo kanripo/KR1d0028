@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮注疏
-#+DATE: 2015-09-23 09:37:42
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 22:08:26.835721
+#+PROPERTY: ID KR1d0028
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR1d0028_WYG_015-1a>¶
 欽定四庫全書¶
 　儀禮注疏卷十五¶
@@ -1172,6 +1174,7 @@
 　¶
 　¶
 　儀禮注䟽卷十五¶
+#+PROPERTY: JUAN 卷十五考證
 <pb:KR1d0028_WYG_015-66a>¶
 　儀禮注疏卷十五考證¶
 不諏日䟽何休云禮本下為士制四者○(臣學健/)按何¶
@@ -1280,4 +1283,3 @@
 　¶
 　¶
 　儀禮注䟽卷十五考證¶
-

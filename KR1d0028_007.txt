@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮注疏
-#+DATE: 2015-09-23 09:37:42
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:08:26.560948
+#+PROPERTY: ID KR1d0028
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1d0028_WYG_007-1a>¶
 欽定四庫全書¶
 　儀禮注疏卷七¶
@@ -1442,6 +1444,7 @@
 　¶
 　¶
 　儀禮注疏卷七¶
+#+PROPERTY: JUAN 卷七考證
 <pb:KR1d0028_WYG_007-81a>¶
 　儀禮注疏卷七考證¶
 前射三日宰夫戒宰及司馬射人㝛視滌○(臣恂/)按此¶
@@ -1568,4 +1571,3 @@
 　¶
 　¶
 　儀禮注疏卷七考證¶
-
